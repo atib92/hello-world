@@ -1,0 +1,8 @@
+git config --global user.name "atib92"
+git config --global user.email "atibuddin92@gmail.com"
+git clone https://github.com/atib92/hello-world.git
+git add test.txt
+git add test.txt
+git status
+git commit -m "comments"
+git push -u origin master
